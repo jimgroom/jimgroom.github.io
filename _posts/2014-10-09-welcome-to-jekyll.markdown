@@ -8,7 +8,7 @@ Welcome to my first experiment with posting using Jekyll. I've been playing with
 
 Here are some useful sites I used in the process of mapping a domain to GitHub and getting Jekyll up and running as the GitHub blog/CMS:
 
-THis page takes you through setting up a custom domain with GitHub pages:
+This page takes you through setting up a custom domain with GitHub pages:
 [https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/)
 
 This page helped me troubleshoot my custom domain issues when mapping to Github.
